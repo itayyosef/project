@@ -73,7 +73,7 @@ class BankAccount():
             file_data = json.load(file)
             for account in file_data:
                 if account["Account Pin"] == self.Pin:
-                    account["Account Pin"] = new_pi
+                    account["Account Pin"] = new_pin
 
         with open("accounts.json","w") as file:
             json.dump(file_data,file,indent = 4)
