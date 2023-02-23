@@ -3,7 +3,7 @@
         "Account name": "itay",
         "Account SN": "769490",
         "Account Balance": 50600,
-        "Account Pin": "1234"
+        "Account Pin": "4321"
     },
     {
         "Account name": "dana",
@@ -39,7 +39,7 @@
         "Account name": "omry",
         "Account SN": "285197",
         "Account Balance": 4000,
-        "Account Pin": "1234"
+        "Account Pin": "4321"
     },
     {
         "Account name": "phillip",
@@ -57,19 +57,19 @@
         "Account name": "davidesko",
         "Account SN": "819892",
         "Account Balance": 1000,
-        "Account Pin": "1234"
+        "Account Pin": "4321"
     },
     {
         "Account name": "shulamit",
         "Account SN": "953492",
         "Account Balance": 0,
-        "Account Pin": "1234"
+        "Account Pin": "4321"
     },
     {
         "Account name": "shlomik",
         "Account SN": "738827",
         "Account Balance": 300,
-        "Account Pin": "1234"
+        "Account Pin": "4321"
     },
     {
         "Account name": "tohar",
@@ -80,7 +80,13 @@
     {
         "Account name": "lior",
         "Account SN": "783784",
-        "Account Balance": 500,
-        "Account Pin": "1234"
+        "Account Balance": 49500,
+        "Account Pin": "4321"
+    },
+    {
+        "Account name": "test1",
+        "Account SN": "971216",
+        "Account Balance": 999,
+        "Account Pin": "4321"
     }
 ]
