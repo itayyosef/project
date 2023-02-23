@@ -1,0 +1,86 @@
+[
+    {
+        "Account name": "itay",
+        "Account SN": "769490",
+        "Account Balance": 50600,
+        "Account Pin": "1234"
+    },
+    {
+        "Account name": "dana",
+        "Account SN": "394382",
+        "Account Balance": 3500,
+        "Account Pin": "1243"
+    },
+    {
+        "Account name": "shlomo",
+        "Account SN": "336258",
+        "Account Balance": 2800,
+        "Account Pin": "9123"
+    },
+    {
+        "Account name": "david",
+        "Account SN": "235257",
+        "Account Balance": 7500,
+        "Account Pin": "6776"
+    },
+    {
+        "Account name": "shmulik",
+        "Account SN": "236825",
+        "Account Balance": 2300,
+        "Account Pin": "4577"
+    },
+    {
+        "Account name": "zvika",
+        "Account SN": "747353",
+        "Account Balance": 4000,
+        "Account Pin": "4529"
+    },
+    {
+        "Account name": "omry",
+        "Account SN": "285197",
+        "Account Balance": 4000,
+        "Account Pin": "1234"
+    },
+    {
+        "Account name": "phillip",
+        "Account SN": "495355",
+        "Account Balance": 1000,
+        "Account Pin": "2341"
+    },
+    {
+        "Account name": "kobi",
+        "Account SN": "845561",
+        "Account Balance": 4400,
+        "Account Pin": "6543"
+    },
+    {
+        "Account name": "davidesko",
+        "Account SN": "819892",
+        "Account Balance": 1000,
+        "Account Pin": "1234"
+    },
+    {
+        "Account name": "shulamit",
+        "Account SN": "953492",
+        "Account Balance": 0,
+        "Account Pin": "1234"
+    },
+    {
+        "Account name": "shlomik",
+        "Account SN": "738827",
+        "Account Balance": 300,
+        "Account Pin": "1234"
+    },
+    {
+        "Account name": "tohar",
+        "Account SN": "965140",
+        "Account Balance": 8000,
+        "Account Pin": "6789"
+    },
+    {
+        "Account name": "lior",
+        "Account SN": "783784",
+        "Account Balance": 500,
+        "Account Pin": "1234"
+    }
+]
